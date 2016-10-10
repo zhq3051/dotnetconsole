@@ -10,7 +10,7 @@ namespace jtest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("jenkins build test");
+            Console.WriteLine("jenkins build test");u
         }
     }
 }
