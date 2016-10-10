@@ -1,0 +1,1 @@
+D:\jenkinsp\jtest\jtest\bin\Debug\jtest.exe.config
